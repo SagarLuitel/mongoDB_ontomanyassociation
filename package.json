@@ -1,0 +1,24 @@
+{
+  "name": "mongodb_ontomanyassociation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarLuitel/mongoDB_ontomanyassociation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagarLuitel/mongoDB_ontomanyassociation/issues"
+  },
+  "homepage": "https://github.com/SagarLuitel/mongoDB_ontomanyassociation#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8",
+    "nodemon": "^2.0.13"
+  }
+}
